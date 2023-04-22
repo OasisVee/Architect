@@ -1,0 +1,21 @@
+{
+  "name": "architect",
+  "displayName": "Architect",
+  "description": "a slick design for the pink lovers",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Architect(dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Architect(dark)-color-theme.json"
+      }
+    ]
+  }
+}
